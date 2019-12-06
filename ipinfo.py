@@ -73,7 +73,7 @@ def about():
        slowprint ("\033[1;33m" + "         [+] YouTube       =>\033[1;36m" + " VPPHacker")
        slowprint ("\033[1;33m" + "         [+] Github        =>\033[1;36m" + " VPPHacker")
        slowprint ("\033[1;91m -----------------------------------------------")
-       slowprint ("\033[1;95m" + "          [+] www.vpphacker.ml [+]          ")
+       slowprint ("\033[1;95m" + "          [+] www.vpphacker.com [+]          ")
        slowprint ("\033[1;91m -----------------------------------------------")
        magas = input("\033[1;33m [+] Press Enter To Continue [+]")
        if magas == " ":
