@@ -34,6 +34,9 @@ python3 ipinfo.py
 
 Now type 1 to scan ip address. And find victim location.
 
+### Full Tutorial
+https://www.vpphacker.com/2020/01/find-ip-address-information-in-termux.html
+
 ### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible.***
